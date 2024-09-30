@@ -1,8 +1,6 @@
 <?php
 
 use App\Http\Controllers\adminController;
-use Dflydev\DotAccessData\Data;
-use Illuminate\Routing\Controller;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\orderController;
@@ -10,8 +8,6 @@ use App\Http\Controllers\ProdukController;
 use App\Http\Controllers\datauserController;
 use App\Http\Controllers\homeController;
 use App\Http\Controllers\kelola_order_Controller;
-use App\Models\User;
-
 /*
 |--------------------------------------------------------------------------
 | Web Routes
